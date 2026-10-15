@@ -1,7 +1,5 @@
 # My Portfolio
 
-Built in **plain HTML, CSS and JavaScript**, with **no npm, build system, API keys or paid hosting needed**.
-
 ## Features
 
 - Dark/light mode with local preference saving
