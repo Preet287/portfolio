@@ -26,10 +26,3 @@ portfolio/
     ├── favicon.svg
     ├── social-preview.svg
     └── Preetkumar_Patel_Resume.pdf
-
-
-The code is provided to the portfolio owner to use and modify. Resume and personal content belong to the owner.
-
-## Latest personalization
-
-The header and footer now display **Preetkumar Patel** without a logo. The homepage and About section mention the ongoing **Master of Applied Computing at the University of Windsor** and current location in **Canada**. To update these later, edit `index.html`.
