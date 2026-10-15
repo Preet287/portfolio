@@ -1,4 +1,4 @@
-# Preetkumar Patel — Portfolio
+# My Portfolio
 
 A responsive, modern, editable portfolio website based on Preetkumar Patel's resume. Built in **plain HTML, CSS and JavaScript**, with **no npm, build system, API keys or paid hosting needed**.
 
