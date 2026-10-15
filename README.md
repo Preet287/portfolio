@@ -25,8 +25,3 @@ portfolio/
     ├── favicon.svg
     ├── social-preview.svg
     └── Preetkumar_Patel_Resume.pdf
-```
-
-## License
-
-The code is provided to the portfolio owner to use and modify. Resume and personal content belong to the owner.
